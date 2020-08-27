@@ -1,0 +1,1 @@
+g++ -o "/home/ubuntu/projects/GadNet/bin/x64/Debug/GadNet.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/ubuntu/projects/GadNet/obj/x64/Debug/main.o
